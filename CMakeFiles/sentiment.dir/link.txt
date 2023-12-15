@@ -1,0 +1,1 @@
+/usr/local/es7/bin/c++ -rdynamic CMakeFiles/sentiment.dir/main.cpp.o CMakeFiles/sentiment.dir/DSString.cpp.o -o sentiment 

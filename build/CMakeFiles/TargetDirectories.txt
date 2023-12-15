@@ -1,0 +1,4 @@
+/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/build/CMakeFiles/sentiment.dir
+/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/build/CMakeFiles/test_DSString.dir
+/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/build/CMakeFiles/edit_cache.dir
+/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/build/CMakeFiles/rebuild_cache.dir

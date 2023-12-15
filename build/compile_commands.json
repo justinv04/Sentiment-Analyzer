@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -g -o CMakeFiles/sentiment.dir/main.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/main.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/main.cpp",
+  "output": "CMakeFiles/sentiment.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -g -o CMakeFiles/sentiment.dir/DSString.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/DSString.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/DSString.cpp",
+  "output": "CMakeFiles/sentiment.dir/DSString.cpp.o"
+},
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -g -o CMakeFiles/sentiment.dir/SentimentAnalyzer.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/SentimentAnalyzer.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/SentimentAnalyzer.cpp",
+  "output": "CMakeFiles/sentiment.dir/SentimentAnalyzer.cpp.o"
+},
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -g -o CMakeFiles/sentiment.dir/WordSent.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/WordSent.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/WordSent.cpp",
+  "output": "CMakeFiles/sentiment.dir/WordSent.cpp.o"
+},
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -g -o CMakeFiles/test_DSString.dir/test_DSString.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/test_DSString.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/test_DSString.cpp",
+  "output": "CMakeFiles/test_DSString.dir/test_DSString.cpp.o"
+},
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -g -o CMakeFiles/test_DSString.dir/DSString.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/DSString.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Sentiment_Analyzer/DSString.cpp",
+  "output": "CMakeFiles/test_DSString.dir/DSString.cpp.o"
+}
+]

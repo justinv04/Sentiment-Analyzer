@@ -1,0 +1,4 @@
+/users7/cse/justinv/assignment-2-don-t-be-sentimental-justinv04/CMakeFiles/sentiment.dir
+/users7/cse/justinv/assignment-2-don-t-be-sentimental-justinv04/CMakeFiles/test_DSString.dir
+/users7/cse/justinv/assignment-2-don-t-be-sentimental-justinv04/CMakeFiles/edit_cache.dir
+/users7/cse/justinv/assignment-2-don-t-be-sentimental-justinv04/CMakeFiles/rebuild_cache.dir
